@@ -15,7 +15,8 @@ JavaScript | TypeScript | Node.js | React | Next.js | Redux | MongoDB | HTML | C
 ## 💻 Featured Projects  
 
 - [Mebliria — Online Furniture Store](https://github.com/Aleksandrovich-Anastasia/project-group-14) – a team project at GoIT Academy. Role: Scrum Master / Frontend Developer. Developed frontend using React, TypeScript, and CSS, implemented REST API integration, and responsive design.  
-- [Filmoteka](https://github.com/Yaremchuk-Sergey/filmoteka) – a movie search web application built with React, REST API, and localStorage. Features include movie search, detailed movie info, and adding items to “Watched” and “Queue” lists.  
+- [ToolRent](https://github.com/yaremchuk-sv/ToolNext) – a modern tool rental web platform built with Next.js 15. Features include publishing tools, browsing and filtering the catalog, booking tools, leaving reviews, and managing user profiles. Implemented using App Router, server and client components, modal routing, and centralized state management.
+
 
 ---
 
